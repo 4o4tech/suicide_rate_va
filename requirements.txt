@@ -1,6 +1,6 @@
-jupyter
-seaborn
 numpy
 pandas
+seaborn
 matplotlib
 plotly
+pycountry-convert
